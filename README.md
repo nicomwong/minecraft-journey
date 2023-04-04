@@ -1,1 +1,1 @@
-# minecraft-journey
+# Minecraft Journey
